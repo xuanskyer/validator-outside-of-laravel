@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php": ">=5.6.19",
+        "illuminate/validation": "~5.2.0"
+    }
+}
